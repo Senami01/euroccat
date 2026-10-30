@@ -7,7 +7,7 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="theme-color" content="<?php echo esc_attr( euroccat_mod( 'color_paper' ) ); ?>" />
+	<meta name="theme-color" content="<?php echo esc_attr( euroccat_mod( 'color_ink' ) ); ?>" />
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>

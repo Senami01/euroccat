@@ -17,7 +17,7 @@ function euroccat_defaults() {
 		'color_primary'   => '#C8102E',
 		'color_accent'    => '#F4B400',
 		'color_secondary' => '#1E3A8A',
-		'color_ink'       => '#121833',
+		'color_ink'       => '#302A68',
 		'color_paper'     => '#F8F3EA',
 
 		// En-tête.
@@ -170,7 +170,7 @@ function euroccat_customize_register( $wp_customize ) {
 		'color_primary'   => __( 'Couleur principale (rouge occitan)', 'euroccat' ),
 		'color_accent'    => __( 'Couleur d’accent (or catalan)', 'euroccat' ),
 		'color_secondary' => __( 'Couleur secondaire (bleu Europe)', 'euroccat' ),
-		'color_ink'       => __( 'Encre (textes et fonds sombres)', 'euroccat' ),
+		'color_ink'       => __( 'Bleu nuit (textes et fonds foncés)', 'euroccat' ),
 		'color_paper'     => __( 'Papier (fond clair)', 'euroccat' ),
 	);
 	foreach ( $colors as $key => $label ) {

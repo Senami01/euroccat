@@ -58,7 +58,7 @@ function euroccat_setup() {
 	add_theme_support(
 		'editor-color-palette',
 		array(
-			array( 'name' => 'Encre', 'slug' => 'ink', 'color' => '#121833' ),
+			array( 'name' => 'Encre', 'slug' => 'ink', 'color' => '#302A68' ),
 			array( 'name' => 'Rouge occitan', 'slug' => 'red', 'color' => '#C8102E' ),
 			array( 'name' => 'Or catalan', 'slug' => 'gold', 'color' => '#F4B400' ),
 			array( 'name' => 'Bleu Europe', 'slug' => 'blue', 'color' => '#1E3A8A' ),
