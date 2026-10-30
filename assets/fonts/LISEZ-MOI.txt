@@ -1,0 +1,18 @@
+POLICE GILROY
+=============
+Déposez ici les fichiers de la police Gilroy (licence à acquérir auprès de son éditeur, Radomir Tinkov).
+Le thème les détecte tout seul. Noms attendus (formats .woff2, .woff, .ttf ou .otf) :
+
+  Gilroy-Light        Gilroy-LightItalic
+  Gilroy-Regular      Gilroy-RegularItalic
+  Gilroy-Medium       Gilroy-MediumItalic
+  Gilroy-SemiBold     Gilroy-SemiBoldItalic
+  Gilroy-Bold         Gilroy-BoldItalic
+  Gilroy-ExtraBold    Gilroy-ExtraBoldItalic
+  Gilroy-Black        Gilroy-BlackItalic
+  (et aussi Thin, UltraLight, Heavy si vous les avez)
+
+Exemple : Gilroy-Bold.woff2
+
+Tant que Gilroy-Regular n'est pas présent, le site utilise « Urbanist » (Google Fonts),
+une police géométrique très proche, pour que l'affichage reste soigné.
